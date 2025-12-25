@@ -1,0 +1,27 @@
+name: 🤖 Auto Commit Bot
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # daily midnight UTC
+  workflow_dispatch:
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Configure Git
+        run: |
+          git config user.name "Vaibhav-bot"
+          git config user.email "vaibhavsharma95124v@gmail.com"
+
+      - name: Run Auto Commit Script
+        run: python bot/auto_commit.py
+
+      - name: Commit & Push
+        run: |
+          git add .
+          git commit -m "🤖 Automated daily commit"
+          git push
