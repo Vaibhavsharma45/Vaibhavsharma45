@@ -36,6 +36,7 @@
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -49,10 +50,12 @@
   />
 </p>
 
-> ⚠️ Note: GitHub stats are powered by a public API.  
-> Sometimes they may load slowly or temporarily not appear.
+<p align="center">
+  <sub>
+    ⚠️ GitHub stats are powered by a public API and may occasionally load slowly.
+  </sub>
+</p>
 
----
 
 ## 🐍 Contribution Snake
 
