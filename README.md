@@ -41,18 +41,11 @@ Consistency beats motivation. Fundamentals beat shortcuts.
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Activity Snapshot
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Vaibhavsharma45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=Vaibhavsharma45&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=Vaibhavsharma45&show_icons=true&theme=tokyonight&hide_border=true" 
     height="170"
   />
 </p>
@@ -66,12 +59,14 @@ Consistency beats motivation. Fundamentals beat shortcuts.
 
 <p align="center">
   <img 
-    src="https://github-contributor-stats.vercel.app/api?username=Vaibhavsharma45&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" 
+    src="https://activity-graph.herokuapp.com/graph?username=Vaibhavsharma45&theme=tokyo-night&hide_border=true" 
   />
 </p>
 
 <p align="center">
-  <sub>⚙️ Stats are generated via public GitHub APIs and may occasionally refresh slowly.</sub>
+  <img 
+    src="https://komarev.com/ghpvc/?username=Vaibhavsharma45&label=Profile%20Views&color=0e75b6&style=flat" 
+  />
 </p>
 
 
