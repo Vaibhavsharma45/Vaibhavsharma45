@@ -41,39 +41,39 @@ Consistency beats motivation. Fundamentals beat shortcuts.
 
 ---
 
-## 📊 GitHub Intelligence Dashboard
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Vaibhavsharma45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Vaibhavsharma45&theme=tokyonight&hide_border=true"
-    height="165"
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Vaibhavsharma45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    height="170"
   />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavsharma45&layout=compact&theme=tokyonight&hide_border=true"
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=Vaibhavsharma45&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavsharma45&layout=compact&theme=tokyonight&hide_border=true" 
     height="160"
   />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vaibhavsharma45&theme=tokyonight"
+  <img 
+    src="https://github-contributor-stats.vercel.app/api?username=Vaibhavsharma45&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" 
   />
 </p>
 
 <p align="center">
-  <sub>
-    ⚠️ GitHub metrics are generated via public APIs and may occasionally load slowly.
-  </sub>
+  <sub>⚙️ Stats are generated via public GitHub APIs and may occasionally refresh slowly.</sub>
 </p>
 
----
 
 ## 🐍 Contribution Graph (Auto-Generated)
 
