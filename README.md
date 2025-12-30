@@ -41,34 +41,27 @@ Consistency beats motivation. Fundamentals beat shortcuts.
 
 ---
 
-## 📊 GitHub Activity Snapshot
+## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Vaibhavsharma45&show_icons=true&theme=tokyonight&hide_border=true" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Vaibhavsharma45&show_icons=true&theme=tokyonight&hide_border=true"
     height="170"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavsharma45&layout=compact&theme=tokyonight&hide_border=true" 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavsharma45&layout=compact&theme=tokyonight&hide_border=true"
     height="160"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://activity-graph.herokuapp.com/graph?username=Vaibhavsharma45&theme=tokyo-night&hide_border=true" 
+  <img
+    src="https://komarev.com/ghpvc/?username=Vaibhavsharma45&label=Profile%20Views&color=0e75b6&style=flat"
   />
 </p>
-
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=Vaibhavsharma45&label=Profile%20Views&color=0e75b6&style=flat" 
-  />
-</p>
-
 
 ## 🐍 Contribution Graph (Auto-Generated)
 
