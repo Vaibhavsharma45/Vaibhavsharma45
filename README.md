@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Sharma</h1>
-<h3 align="center">Student | Aspiring Software Engineer | AI & Web Developer</h3>
+<h1 align="center">Hey 👋, I'm Vaibhav Sharma</h1>
+<h3 align="center">AI Engineer in Progress | Backend-First Developer | Systems Thinker</h3>
 
 <p align="center">
   <a href="https://thevaibhavacom.vercel.app/" target="_blank">
@@ -19,16 +19,21 @@
 
 ---
 
-## 🚀 About Me
+## 🧬 Who Am I?
 
-- 🎓 Student passionate about **Software Engineering**
-- 🤖 Interested in **AI, Backend & Full-Stack Development**
-- 🧠 Believe in **consistency over motivation**
-- 🌱 Learning, building, and improving every day
+I'm a **Computer Applications student** working toward becoming a strong **AI Engineer**.  
+I focus on **understanding systems deeply** — how data flows, models behave, and services scale.
+
+I enjoy building:
+- 🧠 AI-powered backend logic  
+- ⚙️ Clean, scalable APIs  
+- 🌐 Web systems with clear architecture  
+
+Consistency beats motivation. Fundamentals beat shortcuts.
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Core Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,fastapi,mongodb,git,github,docker,linux" />
@@ -36,28 +41,41 @@
 
 ---
 
-
-## 📊 GitHub Stats
+## 📊 GitHub Intelligence Dashboard
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Vaibhavsharma45&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=Vaibhavsharma45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
     height="165"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavsharma45&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com?user=Vaibhavsharma45&theme=tokyonight&hide_border=true"
     height="165"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavsharma45&layout=compact&theme=tokyonight&hide_border=true"
+    height="160"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vaibhavsharma45&theme=tokyonight"
   />
 </p>
 
 <p align="center">
   <sub>
-    ⚠️ GitHub stats are powered by a public API and may occasionally load slowly.
+    ⚠️ GitHub metrics are generated via public APIs and may occasionally load slowly.
   </sub>
 </p>
 
+---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Graph (Auto-Generated)
 
 <p align="center">
   <img src="https://github.com/Vaibhavsharma45/Vaibhavsharma45/blob/output/github-contribution-grid-snake.svg" />
@@ -65,14 +83,14 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌍 Connect With Me
 
-- 🌍 Portfolio: https://thevaibhavacom.vercel.app/
-- 💼 LinkedIn: https://www.linkedin.com/in/vaibhavsharma45
-- 📧 Email: vaibhavsharma95124v@gmail.com
+- 🌐 Portfolio → https://thevaibhavacom.vercel.app/  
+- 💼 LinkedIn → https://www.linkedin.com/in/vaibhavsharma45  
+- 📧 Email → vaibhavsharma95124v@gmail.com  
 
 ---
 
 <p align="center">
-  <i>"Code daily. Learn deeply. Improve continuously."</i>
+  <i>“Build systems. Learn fundamentals. Let results speak.”</i>
 </p>
