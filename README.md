@@ -19,21 +19,21 @@
 
 ---
 
-## 🧬 Who Am I?
+## 🧬 About Me
 
-I'm a **Computer Applications student** working toward becoming a strong **AI Engineer**.  
-I focus on **understanding systems deeply** — how data flows, models behave, and services scale.
+I'm a **Computer Applications student** building towards a career as an **AI Engineer**.  
+I focus on **strong fundamentals**, **clean backend design**, and **practical AI usage** rather than hype.
 
-I enjoy building:
-- 🧠 AI-powered backend logic  
-- ⚙️ Clean, scalable APIs  
-- 🌐 Web systems with clear architecture  
+What matters to me:
+- 🧠 Understanding how systems actually work  
+- ⚙️ Writing maintainable backend code  
+- 🤖 Applying AI where it adds real value  
 
-Consistency beats motivation. Fundamentals beat shortcuts.
+Consistency > motivation. Fundamentals > shortcuts.
 
 ---
 
-## 🧠 Core Tech Stack
+## 🧠 Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,fastapi,mongodb,git,github,docker,linux" />
@@ -58,12 +58,12 @@ Consistency beats motivation. Fundamentals beat shortcuts.
 </p>
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Vaibhavsharma45&label=Profile%20Views&color=0e75b6&style=flat"
-  />
+  <sub>⚠️ Stats are generated via public GitHub APIs and may refresh slowly.</sub>
 </p>
 
-## 🐍 Contribution Graph (Auto-Generated)
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://github.com/Vaibhavsharma45/Vaibhavsharma45/blob/output/github-contribution-grid-snake.svg" />
@@ -73,12 +73,12 @@ Consistency beats motivation. Fundamentals beat shortcuts.
 
 ## 🌍 Connect With Me
 
-- 🌐 Portfolio → https://thevaibhavacom.vercel.app/  
-- 💼 LinkedIn → https://www.linkedin.com/in/vaibhavsharma45  
-- 📧 Email → vaibhavsharma95124v@gmail.com  
+- 🌐 Portfolio: https://thevaibhavacom.vercel.app/  
+- 💼 LinkedIn: https://www.linkedin.com/in/vaibhavsharma45  
+- 📧 Email: vaibhavsharma95124v@gmail.com  
 
 ---
 
 <p align="center">
-  <i>“Build systems. Learn fundamentals. Let results speak.”</i>
+  <i>“Build systems. Learn deeply. Improve continuously.”</i>
 </p>
