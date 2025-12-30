@@ -16,8 +16,8 @@ I believe in **strong fundamentals, consistency, and clean system design** over 
 ![FLASK](https://img.shields.io/badge/FLASK-339933?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![GIT](https://img.shields.io/badge/GITHUB-2496ED?style=for-the-badge&logo=git&logoColor=white)
-![GITHUB](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=github&logoColor=black)
+![GIT](https://img.shields.io/badge/GIT-2496ED?style=for-the-badge&logo=git&logoColor=white)
+![GITHUB](https://img.shields.io/badge/GITHUB-FCC624?style=for-the-badge&logo=github&logoColor=black)
 
 ---
 
