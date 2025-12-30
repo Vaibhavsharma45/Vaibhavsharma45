@@ -49,7 +49,7 @@ I focus on **building things that actually work**, not just demos.
 ## 📫 Connect With Me
 
 - 🌐 Portfolio: https://thevaibhavacom.vercel.app  
-- 💼 LinkedIn: linkedin.com/in/vaibhavasharma45  
+- 💼 LinkedIn: [linkedin.com/in/vaibhavasharma45 ](https://www.linkedin.com/in/vaibhavasharma45?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZrGucPozQzWZxQG25qejig%3D%3D)
 - 📧 Email: vaibhavsharma95124v@gmail.com  
 
 ---
