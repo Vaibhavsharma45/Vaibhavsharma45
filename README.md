@@ -10,14 +10,14 @@ I believe in **strong fundamentals, consistency, and clean system design** over 
 ## 💻 Skills & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-ED8B00?style=for-the-badge&logo=sql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-F7DF1E?style=for-the-badge&logo=html&logoColor=black)
-![MACHINE_LEARNING](https://img.shields.io/badge/MACHINE_LEARNING-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FLASK](https://img.shields.io/badge/FLASK-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MACHINE_LEARNING](https://img.shields.io/badge/MACHINE_LEARNING-20232A?style=for-the-badge&logo=machine_learning&logoColor=61DAFB)
+![FLASK](https://img.shields.io/badge/FLASK-339933?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![GIT](https://img.shields.io/badge/GITHUB-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GITHUB](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GIT](https://img.shields.io/badge/GITHUB-2496ED?style=for-the-badge&logo=git&logoColor=white)
+![GITHUB](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=github&logoColor=black)
 
 ---
 
