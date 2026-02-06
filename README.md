@@ -16,12 +16,6 @@
 
 ## 🚀 About Me
 ```python
-class VaibhavSharma:
-    def __init__(self):
-        self.role = "AI Engineer in Progress"
-        self.education = "Computer Applications Student"
-        self.focus = ["Backend Development", "AI Integration", "System Design"]
-        self.philosophy = "Strong fundamentals > Shortcuts and hype"
         
     def current_work(self):
         return [
