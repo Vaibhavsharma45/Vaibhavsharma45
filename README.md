@@ -15,19 +15,19 @@
 ---
 
 ## 🚀 About Me
-```python
-        
-    def current_work(self):
-        return [
-            "Building production-ready backend APIs",
-            "Developing AI-powered features with Python",
-            "Learning scalable architecture patterns",
-            "Creating full-stack applications that actually work"
-        ]
-    
-    def daily_routine(self):
-        return "Code → Learn → Build → Repeat 🔄"
-```
+
+I'm a **Computer Applications student** and an **AI Engineer in progress**. I'm passionate about building **backend systems**, working with **AI-powered features**, and understanding how software works under the hood.
+
+I believe in **strong fundamentals, consistency, and clean system design** over shortcuts and hype.
+
+### 🔭 What I'm Currently Working On:
+- Building production-ready backend APIs
+- Developing AI-powered features with Python
+- Learning scalable architecture patterns
+- Creating full-stack applications that actually work
+
+### 💼 My Approach:
+**Code → Learn → Build → Repeat 🔄**
 
 ---
 
@@ -108,23 +108,21 @@
 
 ---
 
-## 🎯 Current Goals
-```javascript
-const goals2025 = {
-    technical: [
-        "Master system design patterns",
-        "Build production-grade AI applications",
-        "Contribute to open-source projects",
-        "Deep dive into distributed systems"
-    ],
-    professional: [
-        "Land AI/Backend engineering role",
-        "Build portfolio of real-world projects",
-        "Network with industry professionals"
-    ],
-    learning: "Never stop growing 📈"
-};
-```
+## 🎯 Current Goals for 2025
+
+### 📚 Technical Goals
+- Master system design patterns and distributed systems
+- Build production-grade AI applications
+- Contribute actively to open-source projects
+- Deep dive into scalable backend architectures
+
+### 💼 Professional Goals
+- Land an AI/Backend engineering role
+- Build a strong portfolio of real-world projects
+- Network and collaborate with industry professionals
+
+### 🚀 Philosophy
+**Never stop growing 📈**
 
 ---
 
