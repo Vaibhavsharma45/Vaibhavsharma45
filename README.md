@@ -30,8 +30,6 @@ vaibhav = {
 }
 ```
 
-> *Ek student jo roz kuch naya seekhta hai, data se stories dhundta hai, aur results se baat karta hai.*
-> *(A student who learns something new every day, finds stories in data, and lets results speak.)*
 
 ---
 
@@ -128,13 +126,11 @@ vaibhav = {
 
 ---
 
-## 💬 One Thing I Believe In
+## 💬 Dev Quote of the Day
 
 <div align="center">
 
-> **"Mujhe abhi bahut kuch seekhna hai — aur yahi meri sabse badi strength hai."**
->
-> *"I still have a lot to learn — and that's my biggest strength."*
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -142,7 +138,7 @@ vaibhav = {
 
 <div align="center">
 
-**Agar data science, projects ya collaboration ke baare mein baat karni ho — DM karo! 👇**
+**Open to opportunities, collaborations & data science discussions — Let's connect! 👇**
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavasharma45)
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thevaibhavacom.vercel.app)
