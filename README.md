@@ -39,7 +39,7 @@ I'm actively working toward my first role as an **Associate Data Scientist** —
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=flat-square&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Bokeh](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=bokeh&logoColor=white)
+![Bokeh](https://img.shields.io/badge/Bokeh-8CAAE6?style=flat-square&logo=bokeh&logoColor=white)
 
 
 **BI & Dashboards**
@@ -54,7 +54,7 @@ I'm actively working toward my first role as an **Associate Data Scientist** —
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=xgboost&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Pytorch](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=pytorch&logoColor=white)
+![Pytorch](https://img.shields.io/badge/Pytorch-FF6F00?style=flat-square&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
@@ -78,9 +78,9 @@ I'm actively working toward my first role as an **Associate Data Scientist** —
 
 **Deployment Tools**
 
-![Docker](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Docker&logoColor=white)
-![Render](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-4479A1?style=flat-square&logo=Docker&logoColor=white)
+![Render](https://img.shields.io/badge/Render-4479A1?style=flat-square&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-4479A1?style=flat-square&logo=vercel&logoColor=white)
 
 
 ---
