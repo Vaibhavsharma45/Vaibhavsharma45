@@ -90,20 +90,6 @@ I'm a BCA student who believes in **building real things**, not just learning th
 - ✅ **Data Science with Generative AI** — PW Skills
 - 📚 Currently learning: **Agentic AI, Vector Databases, LLM Fine-tuning**
 
----
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavsharma45)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thevaibhavacom.vercel.app)
-[![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavsharma95124v@gmail.com)
-
----
-
-*"Strong fundamentals. Real solutions. No shortcuts."*
-
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer)
-
-</div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavsharma45&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
 </div>
