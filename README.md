@@ -91,11 +91,6 @@ I'm a BCA student who believes in **building real things**, not just learning th
 - 📚 Currently learning: **Agentic AI, Vector Databases, LLM Fine-tuning**
 
 ---
-
-## 🤝 Let's Connect!
-
-I'm actively looking for **internships and fresher opportunities** in AI/ML. If you're working on something interesting or want to collaborate — let's talk!
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavsharma45)
