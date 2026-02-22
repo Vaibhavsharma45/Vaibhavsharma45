@@ -1,53 +1,57 @@
-# Hi, I'm Vaibhav Sharma 👋
+# Vaibhav Sharma — Gen AI Engineer
 
-**Aspiring Gen AI Engineer** | BCA Final Year | Muzaffarnagar, India
+🎯 Building intelligent systems with LLMs, Computer Vision & NLP  
+📍 Muzaffarnagar, India | BCA Final Year | Open to opportunities
 
-I build AI systems that actually work — deployed, documented, and production-ready.
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://thevaibhavacom.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavsharma45)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vaibhavsharma95124v@gmail.com)
 
 ---
 
-## 🤖 What I Work On
+## About Me
 
-- **Generative AI** — LLMs, RAG pipelines, LangChain, Prompt Engineering
-- **Computer Vision** — YOLOv8, Object Detection, Real-time Inference
-- **NLP** — Transformers, BERT, Sentiment Analysis, Text Processing
-- **ML/DL** — End-to-end pipelines, TensorFlow, PyTorch, Scikit-learn
+I'm an aspiring Gen AI Engineer with hands-on experience building and deploying end-to-end AI systems. My focus is on **Generative AI, Computer Vision, and NLP** — not just learning, but shipping real products with measurable results.
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Live |
-|---------|-------------|------|
-| 🪖 Helmet Detection | Real-time safety detection using YOLOv8 | Coming Soon |
-| 📄 Resume Analyser | NLP-based ATS scoring system | [Demo](https://resume-analyser-gbp1.vercel.app/) |
-| 📈 Crypto Volatility Predictor | ML model — R² Score: 0.85 | [Demo](https://crypto-volatility-prediction-projectmak4penaud7jwri5vptzto.streamlit.app/) |
-| 🎯 Marg Darshak | ML-based career recommendation system | [Demo](https://marg-darshak-lzy4.onrender.com/) |
+**🪖 Helmet Detection System**  
+Real-time safety compliance detection using YOLOv8 | `Computer Vision` `OpenCV` `Python`
+
+**📄 [Resume Analyser](https://resume-analyser-gbp1.vercel.app/)**  
+NLP-based ATS scoring system with React frontend | `NLP` `TF-IDF` `Flask` `React`
+
+**📈 [Crypto Volatility Predictor](https://crypto-volatility-prediction-projectmak4penaud7jwri5vptzto.streamlit.app/)**  
+R² Score: 0.85 on 50,000+ records | `Random Forest` `Feature Engineering` `Streamlit`
+
+**🎯 [Marg Darshak](https://marg-darshak-lzy4.onrender.com/)**  
+ML-based career recommendation system | `Flask` `SQLite` `Plotly` `Random Forest`
 
 ---
 
 ## 🛠️ Tech Stack
 
-**AI/ML:** Python · PyTorch · TensorFlow · Scikit-learn · YOLOv8 · LangChain · HuggingFace
-
-**Data:** Pandas · NumPy · SQL · MongoDB · EDA · Statistics
-
-**Deployment:** Flask · FastAPI · Streamlit · React · Vercel · Render · Git
+| Domain | Tools |
+|--------|-------|
+| Gen AI | LangChain · HuggingFace · RAG · Prompt Engineering · Ollama |
+| Computer Vision | YOLOv8 · OpenCV · CNN · RCNN |
+| NLP | BERT · Transformers · NLTK · SpaCy · TF-IDF |
+| ML/DL | PyTorch · TensorFlow · Scikit-learn · XGBoost |
+| Data | Pandas · NumPy · SQL · MongoDB · EDA |
+| Deployment | Flask · FastAPI · Streamlit · React · Vercel · Render |
 
 ---
 
-## 📫 Connect
+## 📊 GitHub Stats
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://thevaibhavacom.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavsharma45)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vaibhavsharma95124v@gmail.com)
+![Stats](https://github-readme-stats.vercel.app/api?username=Vaibhavsharma45&show_icons=true&theme=tokyonight&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavsharma45&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 > *"Strong fundamentals. Real solutions. No shortcuts."*
-
-⚡ Open to **Gen AI / ML Engineer** roles and internships
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavsharma45&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
