@@ -1,6 +1,6 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Vaibhav%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Data%20Scientist%20%7C%20GenAI%20Builder&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Vaibhav%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Data%20Scientist%20%7C%20GenAI%20Builder&descAlignY=58&descSize=16" />
+</div>/>
 
 ### 🤖 Aspiring AI & ML Engineer | Data Science · GenAI · NLP · Backend
 ### 📍 Muzaffarnagar, UP, India | BCA @ Maa Shakumbhari University | Open to Internships & Opportunities
