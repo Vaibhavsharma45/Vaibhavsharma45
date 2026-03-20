@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Vaibhav%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20and%20ML%20Engineer%20%7C%20Data%20Scientist%20%7C%20GenAI%20Builder&descAlignY=58&descSize=16" />
-</div>
-<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Vaibhav%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20and%20ML%20Engineer%20%7C%20Data%20Scientist%20%7C%20GenAI%20Builder&descAlignY=58&descSize=16" width="100%" />
 
-### 🤖 Aspiring AI & ML Engineer | Data Science · GenAI · NLP · Backend
-### 📍 Muzaffarnagar, UP, India | BCA @ Maa Shakumbhari University | Open to Internships & Opportunities
+  <h3>🤖 Aspiring AI & ML Engineer | Data Science · GenAI · NLP · Backend</h3>
+  <p>📍 Muzaffarnagar, UP, India | BCA @ Maa Shakumbhari University | Open to Internships & Opportunities</p>
 
-<br>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://thevaibhavacom.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-0sharma)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavsharma95124v@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919012907709)
-
+  <p>
+    [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://thevaibhavacom.vercel.app/)
+    &nbsp;
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-0sharma)
+    &nbsp;
+    [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavsharma95124v@gmail.com)
+    &nbsp;
+    [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919012907709)
+  </p>
 </div>
 
 ---
@@ -48,7 +48,7 @@ I'm a BCA student who believes in **building real things**, not just learning th
 
 ## 🛠️ My Tech Stack
 
-**Generative AI & LLMs**
+**Generative AI & LLMs**<br>
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7C3AED?style=flat-square&logoColor=white)
@@ -58,19 +58,19 @@ I'm a BCA student who believes in **building real things**, not just learning th
 ![RAG](https://img.shields.io/badge/RAG-6366F1?style=flat-square&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0EA5E9?style=flat-square&logoColor=white)
 
-**NLP & Computer Vision**
+**NLP & Computer Vision**<br>
 ![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat-square&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![BERT](https://img.shields.io/badge/BERT-FF6F00?style=flat-square&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
 
-**ML / DL Frameworks**
+**ML / DL Frameworks**<br>
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-**Backend & Deployment**
+**Backend & Deployment**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -80,7 +80,7 @@ I'm a BCA student who believes in **building real things**, not just learning th
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-**Data & Databases**
+**Data & Databases**<br>
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
@@ -117,14 +117,14 @@ I'm a BCA student who believes in **building real things**, not just learning th
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaibhavsharma45&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavsharma45&layout=compact&theme=tokyonight&hide_border=true)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhavsharma45&show_icons=true&theme=tokyonight&hide_border=true" alt="Vaibhav's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavsharma45&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavsharma45&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavsharma45&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak" />
 </div>
 
 ---
@@ -132,9 +132,7 @@ I'm a BCA student who believes in **building real things**, not just learning th
 ### 🐍 Contribution Graph
 
 <div align="center">
-
-![Snake animation](https://github.com/Vaibhavsharma45/Vaibhavsharma45/blob/output/github-contribution-grid-snake.svg)
-
+  <img src="https://github.com/Vaibhavsharma45/Vaibhavsharma45/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -142,9 +140,7 @@ I'm a BCA student who believes in **building real things**, not just learning th
 ### 💬 Dev Quote
 
 <div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </div>
 
 ---
@@ -155,14 +151,14 @@ I'm a BCA student who believes in **building real things**, not just learning th
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-0sharma)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thevaibhavacom.vercel.app)
-&nbsp;
-[![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavsharma95124v@gmail.com)
+  <a href="https://www.linkedin.com/in/vaibhav-0sharma"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://thevaibhavacom.vercel.app"><img src="https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="mailto:vaibhavsharma95124v@gmail.com"><img src="https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<br/>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" />
 
 </div>
