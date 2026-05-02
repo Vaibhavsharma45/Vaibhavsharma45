@@ -183,12 +183,6 @@ vaibhav = {
 
 ## 📊 Stats
 
-https://github-readme-stats.vercel.app/api?username=Vaibhavsharma45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&count_private=true&include_all_commits=true
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavsharma45&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
-
-<br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhavsharma45&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" />
 
 </div>
