@@ -204,7 +204,7 @@ vaibhav = {
 
 <div align="center">
 
-![Snake animation](https://github.com/Vaibhavsharma45/Vaibhavsharma45/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Vaibhavsharma45/Vaibhavsharma45/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
