@@ -31,7 +31,7 @@
 ```python
 vaibhav = {
     "role"      : "AI Engineer | ML Engineer | GenAI Builder",
-    "education" : "MCA @ JIIT Noida",
+    "education" : "BCA",
     "focus"     : ["LLMs", "RAG Systems", "Agentic AI", "NLP", "Computer Vision"],
     "currently" : "Mastering Multi-Agent Architectures & Fine-Tuning",
     "deployed"  : "6 production projects — not just notebooks",
