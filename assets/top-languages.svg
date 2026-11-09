@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="210" viewBox="0 0 460 210" fill="none">
+    <style>
+        .card { fill: #0d1117; stroke: #30363d; stroke-width: 1px; rx: 12px; }
+        .header { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 700; font-size: 17px; fill: #58a6ff; }
+        .lang-name { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 13px; fill: #f0f6fc; font-weight: 600; }
+        .lang-pct { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 11px; fill: #8b949e; font-weight: 500; }
+        .grid-line { stroke: #21262d; stroke-width: 1px; stroke-dasharray: 4; }
+    </style>
+    
+    <rect class="card" x="0.5" y="0.5" width="459" height="209" rx="10"/>
+    
+    <g transform="translate(25, 35)">
+        <text class="header" x="0" y="0">📊 Most Used Languages</text>
+    </g>
+    
+    <line class="grid-line" x1="25" y1="50" x2="435" y2="50"/>
+    
+    <!-- Progress Bar -->
+    <g id="progress-bar">
+        <rect x="25" y="65" width="209" height="10" fill="#3572A5" rx="2"/><rect x="234" y="65" width="160" height="10" fill="#f1e05a" rx="2"/><rect x="394" y="65" width="23" height="10" fill="#563d7c" rx="2"/><rect x="417" y="65" width="16" height="10" fill="#e34c26" rx="2"/><rect x="433" y="65" width="3" height="10" fill="#384d54" rx="2"/>
+    </g>
+    
+    <!-- Legend Grid -->
+    <g id="legend">
+        
+        <g transform="translate(25, 110)">
+            <circle cx="5" cy="-4" r="4.5" fill="#3572A5"/>
+            <text class="lang-name" x="16" y="0">Python</text>
+            <text class="lang-pct" x="16" y="16">51.2%</text>
+        </g>
+        
+        <g transform="translate(160, 110)">
+            <circle cx="5" cy="-4" r="4.5" fill="#f1e05a"/>
+            <text class="lang-name" x="16" y="0">JavaScript</text>
+            <text class="lang-pct" x="16" y="16">39.0%</text>
+        </g>
+        
+        <g transform="translate(295, 110)">
+            <circle cx="5" cy="-4" r="4.5" fill="#563d7c"/>
+            <text class="lang-name" x="16" y="0">CSS</text>
+            <text class="lang-pct" x="16" y="16">5.7%</text>
+        </g>
+        
+        <g transform="translate(25, 142)">
+            <circle cx="5" cy="-4" r="4.5" fill="#e34c26"/>
+            <text class="lang-name" x="16" y="0">HTML</text>
+            <text class="lang-pct" x="16" y="16">3.9%</text>
+        </g>
+        
+        <g transform="translate(160, 142)">
+            <circle cx="5" cy="-4" r="4.5" fill="#384d54"/>
+            <text class="lang-name" x="16" y="0">Dockerfile</text>
+            <text class="lang-pct" x="16" y="16">0.1%</text>
+        </g>
+        
+    </g>
+</svg>

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="210" viewBox="0 0 460 210" fill="none">
+    <style>
+        .card { fill: #0d1117; stroke: #30363d; stroke-width: 1px; rx: 12px; }
+        .header { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 700; font-size: 17px; fill: #58a6ff; }
+        .label { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 13px; fill: #8b949e; font-weight: 500; }
+        .value { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 14px; fill: #f0f6fc; font-weight: 700; }
+        .accent { fill: #bc8cff; }
+        .icon { fill: #58a6ff; }
+        .grid-line { stroke: #21262d; stroke-width: 1px; stroke-dasharray: 4; }
+    </style>
+    
+    <rect class="card" x="0.5" y="0.5" width="459" height="209" rx="10"/>
+    
+    <!-- Title -->
+    <g transform="translate(25, 35)">
+        <path d="M0 -10 L16 -10 L16 6 L0 6 Z" fill="#238636" opacity="0.15" rx="3"/>
+        <text class="header" x="0" y="0">⚡ Engineering Activity &amp; Stats</text>
+    </g>
+    
+    <line class="grid-line" x1="25" y1="52" x2="435" y2="52"/>
+    
+    <!-- Row 1 -->
+    <g transform="translate(25, 80)">
+        <circle cx="6" cy="-4" r="3" fill="#58a6ff"/>
+        <text class="label" x="18" y="0">Total Contributions</text>
+        <text class="value" x="175" y="0">76</text>
+    </g>
+    
+    <g transform="translate(250, 80)">
+        <circle cx="6" cy="-4" r="3" fill="#3fb950"/>
+        <text class="label" x="18" y="0">Public Repositories</text>
+        <text class="value" x="155" y="0">2</text>
+    </g>
+    
+    <!-- Row 2 -->
+    <g transform="translate(25, 115)">
+        <circle cx="6" cy="-4" r="3" fill="#d29922"/>
+        <text class="label" x="18" y="0">Total Stars Earned</text>
+        <text class="value" x="175" y="0">0</text>
+    </g>
+    
+    <g transform="translate(250, 115)">
+        <circle cx="6" cy="-4" r="3" fill="#f0883e"/>
+        <text class="label" x="18" y="0">Forks &amp; Replicas</text>
+        <text class="value" x="155" y="0">0</text>
+    </g>
+    
+    <!-- Row 3 -->
+    <g transform="translate(25, 150)">
+        <circle cx="6" cy="-4" r="3" fill="#bc8cff"/>
+        <text class="label" x="18" y="0">Community Followers</text>
+        <text class="value" x="175" y="0">11</text>
+    </g>
+    
+    <g transform="translate(250, 150)">
+        <circle cx="6" cy="-4" r="3" fill="#39d353"/>
+        <text class="label" x="18" y="0">Verified Commit State</text>
+        <text class="value accent" x="155" y="0">Active</text>
+    </g>
+    
+    <!-- Footer Tag -->
+    <g transform="translate(25, 185)">
+        <text style="font-family:'Segoe UI',sans-serif;font-size:10px;fill:#6e7681;" x="0" y="0">Auto-generated via GitHub Actions • Zero 3rd-party latency</text>
+    </g>
+</svg>

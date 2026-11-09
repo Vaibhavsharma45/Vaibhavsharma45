@@ -1,0 +1,57 @@
+name: Update Profile README & Assets
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # Every 6 hours
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Vaibhavsharma45
+          outputs: |
+            assets/github-contribution-grid-snake.svg
+            assets/github-contribution-grid-snake-dark.svg?palette=github-dark
+        continue-on-error: true
+
+      - name: Generate Dynamic SVG Stats & Languages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python .github/scripts/generate_stats.py
+
+      - name: Update README Dynamic Blocks
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python .github/scripts/update_readme.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/ README.md
+          if git diff --staged --quiet; then
+            echo "No changes detected."
+          else
+            git commit -m "chore(profile): update dynamic stats, activity & contribution snake [skip ci]"
+            git push
+          fi

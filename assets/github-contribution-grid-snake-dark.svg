@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="150" viewBox="0 0 850 150" fill="none">
+    <rect width="850" height="150" rx="8" fill="#0d1117"/>
+    <g transform="translate(20, 20)">
+        <text x="0" y="20" fill="#58a6ff" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="700" font-size="14">🐍 Contribution Graph Snake Animation</text>
+        <text x="0" y="45" fill="#8b949e" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12">Eating green contributions across 2025–2026 • Updated via GitHub Actions workflow</text>
+        
+        <!-- Render decorative matrix grid -->
+        <g transform="translate(0, 65)">
+            <rect x="0" y="0" width="12" height="12" rx="2" fill="#161b22"/>
+            <rect x="16" y="0" width="12" height="12" rx="2" fill="#0e4429"/>
+            <rect x="32" y="0" width="12" height="12" rx="2" fill="#006d32"/>
+            <rect x="48" y="0" width="12" height="12" rx="2" fill="#26a641"/>
+            <rect x="64" y="0" width="12" height="12" rx="2" fill="#39d353"/>
+            <rect x="80" y="0" width="12" height="12" rx="2" fill="#006d32"/>
+            <rect x="96" y="0" width="12" height="12" rx="2" fill="#0e4429"/>
+            <rect x="112" y="0" width="12" height="12" rx="2" fill="#161b22"/>
+            <rect x="128" y="0" width="12" height="12" rx="2" fill="#26a641"/>
+            <rect x="144" y="0" width="12" height="12" rx="2" fill="#39d353"/>
+            <rect x="160" y="0" width="12" height="12" rx="2" fill="#006d32"/>
+            <rect x="176" y="0" width="12" height="12" rx="2" fill="#161b22"/>
+            <rect x="192" y="0" width="12" height="12" rx="2" fill="#0e4429"/>
+            <rect x="208" y="0" width="12" height="12" rx="2" fill="#26a641"/>
+            <rect x="224" y="0" width="12" height="12" rx="2" fill="#39d353"/>
+            <rect x="240" y="0" width="12" height="12" rx="2" fill="#58a6ff"/>
+            <rect x="256" y="0" width="12" height="12" rx="2" fill="#39d353"/>
+            
+            <circle cx="280" cy="6" r="6" fill="#f0883e"/>
+            <circle cx="278" cy="4" r="1.5" fill="#ffffff"/>
+        </g>
+    </g>
+</svg>
