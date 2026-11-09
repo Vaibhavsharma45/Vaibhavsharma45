@@ -89,8 +89,9 @@ Reporting Tools   │ ReportLab (Automated PDF) • python-pptx (Executive Prese
 
 <!-- LATEST_REPOS:START -->
 - 📦 [**Vaibhavsharma45**](https://github.com/Vaibhavsharma45/Vaibhavsharma45) (`Python`) — AI / Engineering project. ★ `0`
-- 📦 [**Career_path**](https://github.com/Vaibhavsharma45/Career_path) (`JavaScript`) — AI / Engineering project. ★ `0`
-- 📦 [**-Auto-Data-Analysis**](https://github.com/Vaibhavsharma45/-Auto-Data-Analysis) (`Python`) — AI / Engineering project. ★ `0`
+- 📦 [**Career_path**](https://github.com/Vaibhavsharma45/Career_path) (`JavaScript`) — Enterprise career recommendation platform fusing psychometrics with US DOL O*NET 31.0 taxonomy & 5 benchmarked ML models (FastAPI + React + Docker). ★ `0`
+- 📦 [**Vaibhavsharma45.github.io**](https://github.com/Vaibhavsharma45/Vaibhavsharma45.github.io) (`HTML`) — AI / Engineering project. ★ `0`
+- 📦 [**-Auto-Data-Analysis**](https://github.com/Vaibhavsharma45/-Auto-Data-Analysis) (`Python`) — AI-powered automated EDA & analytics platform. Ingests CSV/Excel to generate insights, charts, and executive PDF/PPT reports via Groq Llama 3.3 70B. ★ `0`
 <!-- LATEST_REPOS:END -->
 
 ---

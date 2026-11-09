@@ -17,7 +17,7 @@
     
     <!-- Progress Bar -->
     <g id="progress-bar">
-        <rect x="25" y="65" width="209" height="10" fill="#3572A5" rx="2"/><rect x="234" y="65" width="160" height="10" fill="#f1e05a" rx="2"/><rect x="394" y="65" width="23" height="10" fill="#563d7c" rx="2"/><rect x="417" y="65" width="16" height="10" fill="#e34c26" rx="2"/><rect x="433" y="65" width="3" height="10" fill="#384d54" rx="2"/>
+        <rect x="25" y="65" width="205" height="10" fill="#3572A5" rx="2"/><rect x="230" y="65" width="159" height="10" fill="#f1e05a" rx="2"/><rect x="389" y="65" width="22" height="10" fill="#563d7c" rx="2"/><rect x="411" y="65" width="22" height="10" fill="#e34c26" rx="2"/><rect x="433" y="65" width="3" height="10" fill="#384d54" rx="2"/>
     </g>
     
     <!-- Legend Grid -->
@@ -26,25 +26,25 @@
         <g transform="translate(25, 110)">
             <circle cx="5" cy="-4" r="4.5" fill="#3572A5"/>
             <text class="lang-name" x="16" y="0">Python</text>
-            <text class="lang-pct" x="16" y="16">51.2%</text>
+            <text class="lang-pct" x="16" y="16">50.1%</text>
         </g>
         
         <g transform="translate(160, 110)">
             <circle cx="5" cy="-4" r="4.5" fill="#f1e05a"/>
             <text class="lang-name" x="16" y="0">JavaScript</text>
-            <text class="lang-pct" x="16" y="16">39.0%</text>
+            <text class="lang-pct" x="16" y="16">38.8%</text>
         </g>
         
         <g transform="translate(295, 110)">
             <circle cx="5" cy="-4" r="4.5" fill="#563d7c"/>
             <text class="lang-name" x="16" y="0">CSS</text>
-            <text class="lang-pct" x="16" y="16">5.7%</text>
+            <text class="lang-pct" x="16" y="16">5.5%</text>
         </g>
         
         <g transform="translate(25, 142)">
             <circle cx="5" cy="-4" r="4.5" fill="#e34c26"/>
             <text class="lang-name" x="16" y="0">HTML</text>
-            <text class="lang-pct" x="16" y="16">3.9%</text>
+            <text class="lang-pct" x="16" y="16">5.5%</text>
         </g>
         
         <g transform="translate(160, 142)">
