@@ -5,7 +5,6 @@
 ### ⚡ AI/ML Engineer & Systems Builder
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vaibhav_Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavsharma45)
-[![Portfolio](https://img.shields.io/badge/Portfolio-vaibhavsharma45.github.io-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://vaibhavsharma45.github.io)
 [![Medium](https://img.shields.io/badge/Medium-@vaibhavsharma95124v-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vaibhavsharma95124v)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Vaibhavsharma045-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Vaibhavsharma045)
 [![Email](https://img.shields.io/badge/Email-vaibhavsharma95124v@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavsharma95124v@gmail.com)
@@ -110,7 +109,6 @@ Reporting Tools   │ ReportLab (Automated PDF) • python-pptx (Executive Prese
 - **LinkedIn**: [linkedin.com/in/vaibhavsharma45](https://www.linkedin.com/in/vaibhavsharma45)
 - **Medium**: [medium.com/@vaibhavsharma95124v](https://medium.com/@vaibhavsharma95124v)
 - **LeetCode**: [leetcode.com/u/Vaibhavsharma045](https://leetcode.com/u/Vaibhavsharma045)
-- **Portfolio**: [vaibhavsharma45.github.io](https://vaibhavsharma45.github.io)
 
 <div align="center">
   <sub>Generated with zero third-party external dependencies • SVGs committed and served natively via GitHub Actions</sub>
