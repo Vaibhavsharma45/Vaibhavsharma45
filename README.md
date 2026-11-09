@@ -20,21 +20,22 @@
 ### 👨‍💻 About Me
 
 - 🎓 **MCA Candidate (2028)** at Jaypee Institute of Information Technology (JIIT).
-- 🧠 **Applied AI & ML**: Specializing in end-to-end predictive pipelines, multi-modal feature fusion, and LLM inference engines (Groq / Llama 3.3).
-- ⚙️ **Backend & Systems**: Engineering modular microservices and RESTful APIs using **FastAPI** and **Flask**, containerized with **Docker** and verified through automated test suites.
-- 🔭 **Current Focus**: Architecting self-updating data pipelines, open-source developer tooling, and explainable decision-support systems.
+- 🧠 **Machine Learning & AI Systems**: Specializing in predictive modeling, multi-model cross-validation benchmarking, and generative AI inference workflows powered by **Groq API (Llama 3.3 70B)**.
+- ⚙️ **Backend Engineering & APIs**: Designing modular, asynchronous RESTful microservices with **FastAPI** and **Flask**, containerized with **Docker** and verified by comprehensive automated unit test suites.
+- 🔬 **Data Taxonomies & Feature Engineering**: Experienced in fusing sparse sublinear TF-IDF n-grams with structured domain inventories, leveraging the official **U.S. Department of Labor O*NET 31.0** database.
+- 🎯 **Current Focus**: Actively seeking **AI/ML Engineering Internships** and collaborative systems engineering projects.
 
 ---
 
 ### 🛠️ Tech Stack & Tooling
 
 ```
-Core Languages    │ Python • JavaScript (ES6+) • SQL • HTML5 • CSS3 • Bash
-AI & Data Science │ Scikit-Learn • Pandas • NumPy • SciPy • Plotly • Seaborn • Groq API (Llama 3.3)
-Backend & APIs    │ FastAPI • Flask • Pydantic • RESTful APIs • Gunicorn
-Database & Storage│ PostgreSQL • MySQL • SQLite
-DevOps & Cloud    │ Docker • Git • GitHub Actions • Render • Postman
-Reporting Tools   │ ReportLab (Automated PDF) • python-pptx (Executive Presentations)
+Core Languages    │ Python (3.11/3.12) • JavaScript (ES6+) • SQL • HTML5 • CSS3 • Bash
+Machine Learning  │ Scikit-Learn • Pandas • NumPy • SciPy • Groq API (Llama 3.3 70B) • Plotly • Seaborn
+Backend & APIs    │ FastAPI • Flask • Pydantic v2 • RESTful APIs • Gunicorn • Uvicorn
+Database & Cloud  │ PostgreSQL • MySQL • SQLite • Render Cloud
+DevOps & Tooling  │ Docker • Git • GitHub Actions (CI/CD) • Postman • Linux
+Document Engines  │ ReportLab (Automated PDF) • python-pptx (Executive Presentations)
 ```
 
 <p align="center">
@@ -57,8 +58,8 @@ Reporting Tools   │ ReportLab (Automated PDF) • python-pptx (Executive Prese
 | Project | Architecture & Tech Stack | Description | Links |
 | :--- | :--- | :--- | :---: |
 | **CareerPath AI** | `FastAPI` • `Scikit-Learn` • `React 18` • `Docker` • `O*NET 31.0` | Multi-modal career recommendation engine fusing 7 psychometric traits with 300-D NLP goal narratives against official US DOL O*NET taxonomies across 5 benchmarked classifiers. 18 automated unit tests. | [**Code**](https://github.com/Vaibhavsharma45/Career_path) |
-| **DataMind Pro** | `Flask` • `Groq API (Llama 3.3)` • `Pandas` • `Scikit-Learn` • `Render` | Autonomous data analysis platform automating end-to-end exploratory analysis, ML regression/classification, AI narrative generation, and PDF/PowerPoint report exports. | [**Code**](https://github.com/Vaibhavsharma45/-Auto-Data-Analysis) • [**Live**](https://datamind-pro.onrender.com) |
-| **Portfolio Data Pipeline** | `Node.js 20` • `GitHub Actions` • `GraphQL` • `GitHub Pages` | Automated cron-driven ETL pipeline synchronizing live repository metrics, contribution graphs, and developer achievements directly into a decoupled portfolio client. | [**Code**](https://github.com/Vaibhavsharma45/Vaibhavsharma45.github.io) |
+| **DataMind Pro** | `Flask` • `Groq API (Llama 3.3)` • `Pandas` • `Scikit-Learn` • `Render` | Autonomous data analysis platform automating end-to-end exploratory analysis, ML regression/classification, AI narrative generation, and PDF/PowerPoint report exports. | [**Code**](https://github.com/Vaibhavsharma45/-Auto-Data-Analysis) • [**Live Demo**](https://datamind-pro.onrender.com) |
+| **MargDarshak AI** | `Python` • `FastAPI / ML` • `REST APIs` • `Render Cloud` | Cloud-deployed AI recommendation and guidance web service engineered to deliver personalized decision-support roadmaps. | [**Live Demo**](https://marg-darshak-lzy4.onrender.com) |
 
 ---
 
@@ -88,9 +89,7 @@ Reporting Tools   │ ReportLab (Automated PDF) • python-pptx (Executive Prese
 ### 📦 Latest Repositories
 
 <!-- LATEST_REPOS:START -->
-- 📦 [**Vaibhavsharma45**](https://github.com/Vaibhavsharma45/Vaibhavsharma45) (`Python`) — AI / Engineering project. ★ `0`
 - 📦 [**Career_path**](https://github.com/Vaibhavsharma45/Career_path) (`JavaScript`) — Enterprise career recommendation platform fusing psychometrics with US DOL O*NET 31.0 taxonomy & 5 benchmarked ML models (FastAPI + React + Docker). ★ `0`
-- 📦 [**Vaibhavsharma45.github.io**](https://github.com/Vaibhavsharma45/Vaibhavsharma45.github.io) (`HTML`) — AI / Engineering project. ★ `0`
 - 📦 [**-Auto-Data-Analysis**](https://github.com/Vaibhavsharma45/-Auto-Data-Analysis) (`Python`) — AI-powered automated EDA & analytics platform. Ingests CSV/Excel to generate insights, charts, and executive PDF/PPT reports via Groq Llama 3.3 70B. ★ `0`
 <!-- LATEST_REPOS:END -->
 

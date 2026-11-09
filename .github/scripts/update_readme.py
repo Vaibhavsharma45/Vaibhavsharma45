@@ -43,7 +43,6 @@ def fetch_medium_posts():
             title = item.find("title").text if item.find("title") is not None else "Untitled"
             link = item.find("link").text if item.find("link") is not None else ""
             pub_date = item.find("pubDate").text if item.find("pubDate") is not None else ""
-            # format date
             try:
                 dt = datetime.strptime(pub_date[:16], "%a, %d %b %Y")
                 date_str = dt.strftime("%b %d, %Y")
@@ -68,6 +67,10 @@ def format_recent_activity(events):
         repo_url = f"https://github.com/{repo_name}"
         created_at = ev.get("created_at", "")[:10]
         
+        # Don't show noise
+        if repo_short == USERNAME or repo_short.endswith(".github.io"):
+            continue
+            
         desc = ""
         if ev_type == "PushEvent":
             commits = ev.get("payload", {}).get("commits", [])
@@ -92,23 +95,25 @@ def format_recent_activity(events):
             break
             
     if not lines:
-        return "- 🚀 **2026-11-09**: Initialized automated developer branding and portfolio pipeline."
+        return "- 🚀 **2026-11-09**: Initialized automated AI engineering workflows and repository testing suites."
     return "\n".join(lines)
 
 def format_latest_repos(repos):
     if not repos:
         return "No public repositories available."
     
-    sorted_repos = sorted(repos, key=lambda x: x.get("pushed_at", ""), reverse=True)[:5]
+    # Exclude profile self-repo and any .github.io repos
+    filtered = [r for r in repos if r.get("name") != USERNAME and not r.get("name", "").endswith(".github.io") and not r.get("fork")]
+    sorted_repos = sorted(filtered, key=lambda x: x.get("pushed_at", ""), reverse=True)[:5]
     lines = []
     for r in sorted_repos:
         name = r.get("name", "")
         url = r.get("html_url", "")
-        desc = r.get("description") or "AI / Engineering project."
+        desc = r.get("description") or "AI & Engineering system."
         lang = r.get("language") or "Python"
         stars = r.get("stargazers_count", 0)
         lines.append(f"- 📦 [**{name}**]({url}) (`{lang}`) — {desc} ★ `{stars}`")
-    return "\n".join(lines)
+    return "\n".join(lines) if lines else "⚡ Building and benchmarking predictive ML systems."
 
 def format_blog_posts(posts):
     if not posts:
