@@ -89,6 +89,7 @@ Reporting Tools   │ ReportLab (Automated PDF) • python-pptx (Executive Prese
 ### 📦 Latest Repositories
 
 <!-- LATEST_REPOS:START -->
+- 📦 [**Vaibhavsharma45**](https://github.com/Vaibhavsharma45/Vaibhavsharma45) (`Python`) — AI / Engineering project. ★ `0`
 - 📦 [**Career_path**](https://github.com/Vaibhavsharma45/Career_path) (`JavaScript`) — AI / Engineering project. ★ `0`
 - 📦 [**-Auto-Data-Analysis**](https://github.com/Vaibhavsharma45/-Auto-Data-Analysis) (`Python`) — AI / Engineering project. ★ `0`
 <!-- LATEST_REPOS:END -->

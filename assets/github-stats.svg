@@ -23,13 +23,13 @@
     <g transform="translate(25, 80)">
         <circle cx="6" cy="-4" r="3" fill="#58a6ff"/>
         <text class="label" x="18" y="0">Total Contributions</text>
-        <text class="value" x="175" y="0">76</text>
+        <text class="value" x="175" y="0">78</text>
     </g>
     
     <g transform="translate(250, 80)">
         <circle cx="6" cy="-4" r="3" fill="#3fb950"/>
         <text class="label" x="18" y="0">Public Repositories</text>
-        <text class="value" x="155" y="0">2</text>
+        <text class="value" x="155" y="0">3</text>
     </g>
     
     <!-- Row 2 -->
